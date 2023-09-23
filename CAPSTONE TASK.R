@@ -78,6 +78,7 @@ store1 <- arrange(store, desc(REVENUE)) %>%
 
 
 ## iii. FIND THE AVERAGE, MAXIMUM AND MINIMUM OF REVENUE GROUPED BY PRODUCT CATEGORY
+
 select(store1, REVENUE, PRODUCT_CATEGORY) %>%
   group_by(store1, PRODUCT_CATEGORY) %>%
   summarize(AVERAGE = mean(REVENUE), MAXIMUM = max(REVENUE), MINIMUM = min(REVENUE))
