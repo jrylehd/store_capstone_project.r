@@ -1,10 +1,9 @@
 # Application of Data Analysis in Business with R Programming Capstone Project
 
-PROBLEM STATEMENT:
-You are provided with a dataset of a departmental store.
-It contains details of products from May, 2020, a period marked by COVID-19.
-Your manager wants you to find out that investing in which products will be more profitable.
-Your objective is to analyse the patterns and trends of the products, and gather insights for strategic decision making.
+Used a dataset of a departmental store containing the details of products from May, 2020, a period marked by COVID-19.
+
+Scenario: My manager wants me to find out which products will be more profitable when invested into.
+Analyze the patterns and trends of the products, and gather insights for strategic decision making.
 
 Some of the skills I learned and retained for this project were to...
 
